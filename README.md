@@ -1,3 +1,3 @@
-# Self-supervised Representation Learning with Video Cross-stream Prototypical Contrasting
+# Self-supervised Video Representation Learning with Cross-Stream Prototypical Contrasting
 
-This code provides the implementation of Video Cross-stream Prototypical Contrasting. Code will be released soon.
+This repository provides the implementation of Video Cross-stream Prototypical Contrasting (ViCC). Code will be released soon.
