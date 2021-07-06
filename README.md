@@ -1,5 +1,10 @@
 # Self-supervised Video Representation Learning with Cross-Stream Prototypical Contrasting
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/self-supervised-video-representation-learning-7/self-supervised-video-retrieval-on-hmdb51)](https://paperswithcode.com/sota/self-supervised-video-retrieval-on-hmdb51?p=self-supervised-video-representation-learning-7)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/self-supervised-video-representation-learning-7/self-supervised-video-retrieval-on-ucf101)](https://paperswithcode.com/sota/self-supervised-video-retrieval-on-ucf101?p=self-supervised-video-representation-learning-7)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/self-supervised-video-representation-learning-7/self-supervised-action-recognition-on-ucf101-1)](https://paperswithcode.com/sota/self-supervised-action-recognition-on-ucf101-1?p=self-supervised-video-representation-learning-7)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/self-supervised-video-representation-learning-7/self-supervised-action-recognition-on-ucf101)](https://paperswithcode.com/sota/self-supervised-action-recognition-on-ucf101?p=self-supervised-video-representation-learning-7)
+
 This repository provides the implementation of the paper: [Self-supervised Video Representation learning with Cross-stream Prototypical Contrasting](https://arxiv.org/abs/2106.10137).
 
 ## Video Cross-Stream Prototypical Contrasting (ViCC)
