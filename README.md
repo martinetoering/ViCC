@@ -31,6 +31,10 @@ Results on end-to-end finetuning for action recognition:
 
 <img src="src/asset/results.png">
 
+### News
+
+* Pretrained models are now available (2021-08-24)
+
 ### References
 
 * [CoCLR: Self-supervised Co-Training for Video Representation Learning, Han et al.](https://github.com/TengdaHan/CoCLR)
@@ -201,6 +205,16 @@ If you have questions, please create a GitHub issue or send an email to <martine
 
  -->
  
+## Pretrained models
+
+* [ViCC-RGB](https://drive.google.com/file/d/1t2PhhRpo4LPO_ug5-0iuPT2zhfq-lB94/view?usp=sharing) 
+* [ViCC-Flow](https://drive.google.com/file/d/1G22SYmGJ8Ybvg-RU9ZWTVjZE9wx8u8Ov/view?usp=sharing)
+
+Single-stream:
+* [ViCC-RGB-Single-stream](https://drive.google.com/file/d/13mHTqnc-fkpm6_OpLbgJZg-m2Xf62e96/view?usp=sharing)
+* [ViCC-Flow-Single-stream](https://drive.google.com/file/d/1fx8lUDj_GvF5RK53HWODbn9OcM6QnoUb/view?usp=sharing)
+
+
 ## Citation
 
 If you find this repository helpful in your research, please consider citing our paper:
