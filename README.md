@@ -11,7 +11,16 @@ This repository provides the implementation of the paper: [Self-supervised Video
 
 We leverage both optical flow and RGB as views for contrastive learning, by predicting consistent stream prototype assignments from the views in the training of each model. This effectively transfers knowledge from motion (flow) to appearance (RGB).
 
-<img src="src/asset/vicc.png">
+<img src="src/asset/vicc2.gif"  width="1584">
+
+### Training process
+
+In one alternation, we optimize one model and the corresponding prototypes. The method consists of two stages. In Single-stream, RGB and Flow encoder are trained on their
+own features. In Cross-stream, both models are trained on both feature types. 
+
+<p align="center">
+<img src="src/asset/vicc1.gif" class="center" >
+</p>
 
 ### Results
 
