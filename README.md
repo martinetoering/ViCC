@@ -5,10 +5,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/self-supervised-video-representation-learning-7/self-supervised-action-recognition-on-ucf101-1)](https://paperswithcode.com/sota/self-supervised-action-recognition-on-ucf101-1?p=self-supervised-video-representation-learning-7)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/self-supervised-video-representation-learning-7/self-supervised-action-recognition-on-ucf101)](https://paperswithcode.com/sota/self-supervised-action-recognition-on-ucf101?p=self-supervised-video-representation-learning-7)
 
-This repository provides the implementation of the WACV 2022 paper: [Self-supervised Video Representation learning with Cross-stream Prototypical Contrasting](https://openaccess.thecvf.com/content/WACV2022/html/Toering_Self-Supervised_Video_Representation_Learning_With_Cross-Stream_Prototypical_Contrasting_WACV_2022_paper.html)  
-
-[WACV22 Open Access](https://openaccess.thecvf.com/content/WACV2022/html/Toering_Self-Supervised_Video_Representation_Learning_With_Cross-Stream_Prototypical_Contrasting_WACV_2022_paper.html)  
-[Arxiv link](https://arxiv.org/abs/2106.10137)  
+This repository provides the implementation of the WACV 2022 paper: [Self-supervised Video Representation learning with Cross-stream Prototypical Contrasting](https://openaccess.thecvf.com/content/WACV2022/html/Toering_Self-Supervised_Video_Representation_Learning_With_Cross-Stream_Prototypical_Contrasting_WACV_2022_paper.html).
 
 ## Video Cross-Stream Prototypical Contrasting (ViCC)
 
@@ -232,7 +229,7 @@ Single-stream:
 If you find this repository helpful in your research, please consider citing our paper:
 
 ```
-@article{toering2021selfsupervised,
+@article{toering2022selfsupervised,
     title={Self-supervised Video Representation Learning with Cross-Stream Prototypical Contrasting}, 
     author={Martine Toering and Ioannis Gatopoulos and Maarten Stol and Vincent Tao Hu},
     journal={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
@@ -241,7 +238,7 @@ If you find this repository helpful in your research, please consider citing our
 ```
 
 ## Acknowledgements
-This work was supported and funded from the [University of Amsterdam](https://www.uva.nl/), and [BrainCreators B.V.](https://braincreators.com/).
+This work was supported and funded from the [University of Amsterdam](https://www.uva.nl/) and [BrainCreators B.V.](https://braincreators.com/)
 
 **Author** <br >
 Martine Toering, 2021
