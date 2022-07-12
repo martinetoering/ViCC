@@ -216,12 +216,12 @@ If you have questions, please create a GitHub issue or send an email to <martine
  
 ## Pretrained models
 
-* [ViCC-RGB](https://drive.google.com/file/d/1t2PhhRpo4LPO_ug5-0iuPT2zhfq-lB94/view?usp=sharing) 
-* [ViCC-Flow](https://drive.google.com/file/d/1G22SYmGJ8Ybvg-RU9ZWTVjZE9wx8u8Ov/view?usp=sharing)
+* [ViCC-RGB](https://drive.google.com/file/d/13mHTqnc-fkpm6_OpLbgJZg-m2Xf62e96/view?usp=sharing) 
+* [ViCC-Flow](https://drive.google.com/file/d/1fx8lUDj_GvF5RK53HWODbn9OcM6QnoUb/view?usp=sharing)
 
 Single-stream:
-* [ViCC-RGB-Single-stream](https://drive.google.com/file/d/13mHTqnc-fkpm6_OpLbgJZg-m2Xf62e96/view?usp=sharing)
-* [ViCC-Flow-Single-stream](https://drive.google.com/file/d/1fx8lUDj_GvF5RK53HWODbn9OcM6QnoUb/view?usp=sharing)
+* [ViCC-RGB-Single-stream](https://drive.google.com/file/d/1t2PhhRpo4LPO_ug5-0iuPT2zhfq-lB94/view?usp=sharing)
+* [ViCC-Flow-Single-stream](https://drive.google.com/file/d/1G22SYmGJ8Ybvg-RU9ZWTVjZE9wx8u8Ov/view?usp=sharing)
 
 
 ## Citation
