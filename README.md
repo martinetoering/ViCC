@@ -11,7 +11,7 @@ This repository provides the implementation of the WACV 2022 paper: [Self-superv
 
 We leverage both optical flow and RGB as views for contrastive learning, by predicting consistent stream prototype assignments from the views in the training of each model. This effectively transfers knowledge from motion (flow) to appearance (RGB).
 
-<img src="src/asset/vicc2.gif"  width="1584">
+<img src="src/asset/vicc2.gif" class="center" >
 
 ### Training process
 
