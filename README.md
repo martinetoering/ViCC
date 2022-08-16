@@ -42,7 +42,8 @@ Results on end-to-end finetuning for action recognition:
 
 ### News
 
-* Pretrained models are now available (2021-08-24)
+* Pretrained models for S3D are now available (2021-08)
+* Two more pretrained models for R(2+1)D are linked below (2022-08)
 
 ### References
 
@@ -216,12 +217,17 @@ If you have questions, please create a GitHub issue or send an email to <martine
  
 ## Pretrained models
 
-* [ViCC-RGB](https://drive.google.com/file/d/13mHTqnc-fkpm6_OpLbgJZg-m2Xf62e96/view?usp=sharing) 
-* [ViCC-Flow](https://drive.google.com/file/d/1fx8lUDj_GvF5RK53HWODbn9OcM6QnoUb/view?usp=sharing)
+S3D:
+* [ViCC-RGB-S3D](https://drive.google.com/file/d/13mHTqnc-fkpm6_OpLbgJZg-m2Xf62e96/view?usp=sharing) (R@1 62.1) 
+* [ViCC-Flow-S3D](https://drive.google.com/file/d/1fx8lUDj_GvF5RK53HWODbn9OcM6QnoUb/view?usp=sharing) (R@1 59.7)
 
-Single-stream:
-* [ViCC-RGB-Single-stream](https://drive.google.com/file/d/1t2PhhRpo4LPO_ug5-0iuPT2zhfq-lB94/view?usp=sharing)
-* [ViCC-Flow-Single-stream](https://drive.google.com/file/d/1G22SYmGJ8Ybvg-RU9ZWTVjZE9wx8u8Ov/view?usp=sharing)
+R(2+1)D:
+* [ViCC-RGB-R21d](https://drive.google.com/file/d/1zDiE9PvXM6vlBWBxdD0-eo5ESk6cPs0e/view?usp=sharing) (R@1 58.6)
+* [ViCC-Flow-R21d](https://drive.google.com/file/d/1lrFnJXN8EuHV5l961ro1DEd3vHeabvx3/view?usp=sharing) (R@1 50.0)
+
+Single-stream S3D:
+* [ViCC-RGB-Single-stream-S3D](https://drive.google.com/file/d/1t2PhhRpo4LPO_ug5-0iuPT2zhfq-lB94/view?usp=sharing)
+* [ViCC-Flow-Single-stream-S3D](https://drive.google.com/file/d/1G22SYmGJ8Ybvg-RU9ZWTVjZE9wx8u8Ov/view?usp=sharing)
 
 
 ## Citation
@@ -241,5 +247,5 @@ If you find this repository helpful in your research, please consider citing our
 This work was supported and funded from the [University of Amsterdam](https://www.uva.nl/) and [BrainCreators B.V.](https://braincreators.com/)
 
 **Author** <br >
-Martine Toering, 2021
+Martine Toering, 2022
 
